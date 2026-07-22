@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "65362b7653605f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6df51f889a5eea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09790c681d4f6cc4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f4bae2d2184344a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2da208ecf6a78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c9ff9ca8e1c5e6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2f9eb3278434585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f9fc8b427528455",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d426042affa4f6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9368f6d20030f731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc323b1dfdfaa3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orientation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Orientation"
+            }
+          },
+          {
+            "id": "cc191544965c0f96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orientation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Orientation"
+            }
+          },
+          {
+            "id": "6a15d3a13e81a0ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a82169e082074b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ca7936216410d29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orientation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Orientation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "09790c681d4f6cc4",
+  "lastOpenFiles": [
+    "Notes for me and students/Simple Student OSI.md",
+    "Excalidraw",
+    "Untitled.md",
+    "Daily Notes Starting 6.4/7.9.26.md",
+    "7.9.26.md",
+    "Notes for me and students/Proxmox Permissions.md",
+    "Notes for me and students/Linux Bash Scripting Notes.md",
+    "Linux.md",
+    "Daily Notes Starting 6.4/6.1.26-6.3.26 Notes Recap.md",
+    "Daily Notes Starting 6.4/Note re-cap from 6.1.26-6.3.26.md",
+    "Note re-cap from 6.1.26-6.3.26.md",
+    "Training Module 1 Diagrams/from AI linux_cheat_sheet.svg",
+    "Training Module 1 Diagrams/linux_cheat_sheet.svg",
+    "Notes for me and students/OSI Layers Handout Simple.jpg",
+    "Notes for me and students/OSI Layers.jpg",
+    "Daily Notes Starting 6.4/7.8.26.md",
+    "Training Ground Network Diagrams/Simplified PTG Diagram For Training Modules.png",
+    "7.8.26.md",
+    "Library/Images/Screenshot from 2026-07-07 09-43-05.png",
+    "Library/Images/Screenshot from 2026-07-07 09-54-16.png",
+    "Daily Notes Starting 6.4/7.7.26.md",
+    "Library/Images/Screenshot from 2026-07-07 09-44-39.png",
+    "Library/Images/Screenshot from 2026-07-07 10-36-51.png",
+    "Library/Images/Screenshot from 2026-07-07 10-30-46.png",
+    "Meetings/2026-07-06 PTG.md",
+    "7.7.26.md",
+    "Daily Notes Starting 6.4/7.1.26 Training Modules' Slides Linked Here.md",
+    "Training Module 1 Diagrams/LAN.md",
+    "Training Module 1 Diagrams/Segmented Network.md",
+    "Training Module 1 Diagrams/Network Segmentation.md",
+    "Excalidraw/Drawing 2026-07-06 11.52.37.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-06 11.52.44.excalidraw.md",
+    "Training Module 1 Diagrams/DNS (from itjones.com).md",
+    "Training Module 1 Diagrams/DNS.md",
+    "Training Module 1 Diagrams/NTP.md",
+    "Training Module 1 Diagrams/Mac Address.md",
+    "Training Module 1 Diagrams/DHCP.md",
+    "Training Ground Network Diagrams",
+    "Training Module 1 Diagrams",
+    "Notes for me and students/osi_expanded.excalidraw",
+    "Notes for me and students",
+    "Notes/osi_expanded.excalidraw",
+    "Training Ground Diagrams/osi_expanded.excalidraw",
+    "Training Ground Diagrams",
+    "Diagrams/osi_expanded.excalidraw",
+    "Notes"
+  ]
+}
