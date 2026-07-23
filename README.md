@@ -56,3 +56,21 @@ Topics covered:
 ---
 
 ## Repository Structure
+## Repository Structure
+
+```text
+CyberSec-Networking-2026-Summer-Research-Internship/
+├── .obsidian/                             # Obsidian workspace configuration (ignored)
+├── Daily Personal Notes/                  # Daily internship journal entries
+├── Diagrams/
+│   ├── ACEP Intern Presentation Diagrams/
+│   ├── Training Ground Network Diagrams/
+│   ├── Training Module 1 Diagrams/
+│   └── Training Module 2 Diagrams/
+├── Meetings/                              # Mostly orientation notes and some notes John made for my feedback after a demo-run of a module early on
+├── Module Slides and PDFs/                # Training slide decks and reference PDFs
+├── Project Technical Notes/               # Technical documentation and research notes
+├── .gitignore
+├── LICENSE
+└── README.md
+```
