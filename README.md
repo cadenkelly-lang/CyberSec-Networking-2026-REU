@@ -14,13 +14,13 @@ The training environment uses virtualization and network simulation to allow stu
 
 The project network architecture is documented at both the physical (Layer 1) and logical (Layer 3) levels.
 
-### Layer 1 — Physical Network Architecture
+### Layer 1 - Physical Network Architecture
 
 The Layer 1 diagram shows the physical components of the training environment, including servers, switches, network connections, and hardware organization.
 
 <img src="Diagrams/Training%20Ground%20Network%20Diagrams/6.26%20Final%20PTG%20Diagram.png" width="850">
 
-### Layer 3 — Logical Network Architecture
+### Layer 3 - Logical Network Architecture
 
 The Layer 3 diagram shows the logical network design, including IP addressing, network segmentation, student stations, and firewall boundaries.
 
@@ -30,7 +30,7 @@ The Layer 3 diagram shows the logical network design, including IP addressing, n
 
 ## Training Modules
 
-### Module 1 — Networking Fundamentals
+### Module 1 - Networking Fundamentals
 
 Topics covered:
 
@@ -43,7 +43,7 @@ Topics covered:
 - LAN
 - Network segmentation
 
-### Module 2 — Firewall Configuration and Security
+### Module 2 - Firewall Configuration and Security
 
 Topics covered:
 
