@@ -1,4 +1,4 @@
-# Cybersecurity Networking Training Modules — Summer 2026
+# Cybersecurity Networking Training Modules - Summer 2026
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This repository contains documentation, diagrams, and training materials develop
 
 The project focuses on developing cybersecurity training modules for rural Alaskan Communities. The goal is to create accessible, cost-effective, hands-on cybersecurity education through a virtualized cyber range environment covering networking fundamentals (with a focus on network segmentation), system administration, and firewall configuration.
 
-The training environment uses virtualization and network simulation to allow students to explore real-world networking and cybersecurity concepts in a controlled environment.
+The training environment uses virtualization and network simulation to allow students to explore real-world networking and cybersecurity concepts in a controlled environment. These are the initial materials I made once my internship ended, but John is likely to continue workin/iterating upon them after I go.
 
 ---
 
