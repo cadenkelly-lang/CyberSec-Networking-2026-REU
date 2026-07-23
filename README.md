@@ -58,7 +58,6 @@ Topics covered:
 ---
 
 ## Repository Structure
-## Repository Structure
 
 ```text
 CyberSec-Networking-2026-Summer-Research-Internship/
