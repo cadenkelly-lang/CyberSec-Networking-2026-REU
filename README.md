@@ -48,10 +48,10 @@ Topics covered:
 Topics covered:
 
 - Firewall concepts
-- OPNsense services configuration
-- >> DHCP/DNS/NTP configuration
+- OPNsense services configuration: DHCP/DNS/NTP
 - Firewall rules, configuration, testing
 - Rule testing and validation
+- Feedback Form, etc.**Not included in github due to privacy concerns. 
 
 ---
 
