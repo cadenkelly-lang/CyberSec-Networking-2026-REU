@@ -51,7 +51,7 @@ Topics covered:
 - OPNsense services configuration: DHCP/DNS/NTP
 - Firewall rules, configuration, testing
 - Rule testing and validation
-- Feedback Form, etc.**Not included in github due to privacy concerns. 
+- Feedback Form, etc. as QR code in slides
 
 ---
 
