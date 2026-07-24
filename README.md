@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains documentation, diagrams, and training materials developed during my Summer 2026 research internship with the Alaska Center for Energy and Power (ACEP).
+This is an open educational resource (OER) repository. This repository contains documentation, diagrams, and training materials developed during my Summer 2026 research internship with the Alaska Center for Energy and Power (ACEP).
 
 The project focuses on developing cybersecurity training modules for rural Alaskan Communities. The goal is to create accessible, cost-effective, hands-on cybersecurity education through a virtualized cyber range environment covering networking fundamentals (with a focus on network segmentation), system administration, and firewall configuration.
 
