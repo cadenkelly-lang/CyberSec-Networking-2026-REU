@@ -1,0 +1,3 @@
+- Some folders have content not in the obsidian because it doesn't easily support putting it in
+- For example, the Pub/Media folder doesn't include the article, and may not include the end of year presentation but the repo will
+- So if folders here look scarce that is why
