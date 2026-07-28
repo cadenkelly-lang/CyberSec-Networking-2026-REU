@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "65362b7653605f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "709db7dbfe3b09d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafd69cff3d1c480",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Diagrams/Training Ground Network Diagrams/jehaverlack-sddc-rack.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "jehaverlack-sddc-rack.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f4bae2d2184344a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2da208ecf6a78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c9ff9ca8e1c5e6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2f9eb3278434585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f9fc8b427528455",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "d426042affa4f6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9368f6d20030f731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc323b1dfdfaa3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orientation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Orientation"
+            }
+          },
+          {
+            "id": "cc191544965c0f96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orientation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Orientation"
+            }
+          },
+          {
+            "id": "6a15d3a13e81a0ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a82169e082074b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ca7936216410d29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-13 13.47.21.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2026-07-13 13.47.21.excalidraw"
+            }
+          },
+          {
+            "id": "094a47bf8ef477c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dafd69cff3d1c480",
+  "lastOpenFiles": [
+    "Project Technical Notes/Orientation Info Doc.md",
+    "Project Technical Notes/orientation osi_expanded.excalidraw",
+    "Project Technical Notes/Orientation Terminology and OSI Model.md",
+    "6.27.26 - 6.29.26.md",
+    "Untitled.md",
+    "Project Technical Notes/Will update 7.30.26 IPAM+Lab Sheet 6.29.26.md",
+    "Project Technical Notes/6.11.26 IPAM+Lab Sheet - Caden.md",
+    "Project Technical Notes/6.11.26 IPAM+Lab Sheet v1 6.11.26 - Caden.md",
+    "Diagrams/Training Ground Network Diagrams/jehaverlack-sddc-rack.excalidraw.md",
+    "Module Content, End of Summer Presentation Content/Water Alarm.csv",
+    "Module Content, End of Summer Presentation Content/Unconfirmed 575224.crdownload",
+    "Daily Personal Notes/7.24.26.md",
+    "Daily Personal Notes/2026-07-10.md",
+    "Daily Personal Notes/2026-06-19.md",
+    "Daily Personal Notes/2026-07-31 - 8.8.26.md",
+    "Daily Personal Notes/2026-06-15.md",
+    "Daily Personal Notes/2026-06-22.md",
+    "Daily Personal Notes/2026-06-25.md",
+    "Daily Personal Notes/2026-06-17.md",
+    "Daily Personal Notes/2026-06-23.md",
+    "Daily Personal Notes/2026-07-21.md",
+    "Daily Personal Notes/2026-06-01-6.3.26 Notes Recap.md",
+    "Daily Personal Notes/2026-07-17.md",
+    "Daily Personal Notes/2026-07-08.md",
+    "Daily Personal Notes/2026-07-20.md",
+    "Daily Personal Notes/2026-06-30.md",
+    "Daily Personal Notes/2026-06-12.md",
+    "Daily Personal Notes/2026-06-05.md",
+    "Daily Personal Notes/2026-07-16.md",
+    "Daily Personal Notes/rename_dates.py",
+    "Module Content, End of Summer Presentation Content/Unconfirmed 767085.crdownload",
+    "Module Content, End of Summer Presentation Content/Unconfirmed 248245.crdownload",
+    "Library/Images/mt3000-cropped.jpg",
+    "Library/Images/mt3000_5-1871736596.jpg",
+    "Library/Images/MokerLink-2G08110GSM.png",
+    "Library/Images/10in-PDU-back.png",
+    "Library/Images/Netgear-GS305E.png",
+    "Library/Images/MR-M1-4L.png",
+    "Library/Images/PatchPanel-12.png",
+    "Library/Images/Netgear-GS308e.png",
+    "Library/Images/10in-PDU-front.png",
+    "Library/Images/TecMojo-10in-Rack.png",
+    "Publications and Media/Interview.mp4",
+    "Module Content, End of Summer Presentation Content/Training Module Slides.pptx",
+    "Module Content, End of Summer Presentation Content/Training Module Slides.pdf",
+    "Module Content, End of Summer Presentation Content/Caden's ACEP Intern Presentation Deck.pptx"
+  ]
+}
