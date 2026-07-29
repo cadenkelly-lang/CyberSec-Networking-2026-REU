@@ -14,6 +14,7 @@ Caden Kelly
 | host                          | Perform DNS lookups to find IP addresses or hostnames                        |
 | ip a                          | Show network interfaces and their IP addresses                               |
 | ip route                      | Display the system's routing table                                           |
+| mkdir                         | Creates a new directory (folder)                                             |
 | ls                            | List files and directories in the current directory                          |
 | nano                          | Terminal text editor for creating and editing files                          |
 | nslookup                      | Query DNS to find the IP address for a domain name                           |
